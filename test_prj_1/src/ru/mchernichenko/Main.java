@@ -1,5 +1,5 @@
 package ru.mchernichenko;
-// update1
+// update2
 public class Main {
 
 }
