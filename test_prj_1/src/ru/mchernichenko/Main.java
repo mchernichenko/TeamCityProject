@@ -1,5 +1,5 @@
 package ru.mchernichenko;
-// тест project1
+// update1
 public class Main {
 
 }
