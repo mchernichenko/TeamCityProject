@@ -1,4 +1,4 @@
-package ru.billing.app;
+package org.billing.tcproject.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
