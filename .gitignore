@@ -1,0 +1,17 @@
+# Covers JetBrains IDEs: IntelliJ
+
+## Directory-based project format
+.idea/
+
+## Additional for IntelliJ
+target/
+
+## File-based project format
+*.ipr
+*.iml
+*.iws
+
+Srv_Part/Distrib/
+*.log
+_notes/~WRL1084.tmp
+_notes/~$ring_Заметки.docx
